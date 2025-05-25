@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef75a06d64a26f54da8210b2f72f81b2, type: 3}
+  m_Name: Word5
+  m_EditorClassIdentifier: 
+  secret: GRAN_
+  letter1: D
+  answer1: GRAND
+  letter2: T
+  answer2: GRANT
+  letter3: M
+  answer3: GRANM
+  correctLetter: D

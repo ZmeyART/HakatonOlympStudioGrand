@@ -1,0 +1,677 @@
+fileFormatVersion: 2
+guid: 8f8f639e9216b8c40ad4e325043be458
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BracketLeft1
+    second: {fileID: 2100000, guid: d2f6f8102f0e638499c4f687fc279ea9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BracketRight1
+    second: {fileID: 2100000, guid: 05273c4a6caebc04986e2ab39be5d273, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brownstone_Facade_FLR_7.001
+    second: {fileID: 2100000, guid: 516fda6ca177ecd47983137191d41a10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brownstone_Facade_Flr_1.001
+    second: {fileID: 2100000, guid: d5f4ef6c22204ef468a544e0791d2fc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brownstone_Facade_Flr_2.001
+    second: {fileID: 2100000, guid: 42b2c1d81e9ce8948b0bcf1b8d4047c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brownstone_Facade_Flr_3.001
+    second: {fileID: 2100000, guid: 5e4c751ac010b1449b4d5d1dd1378fe3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brownstone_Facade_Flr_4.001
+    second: {fileID: 2100000, guid: 9893f76cace07c74bb0db38f1b7aeb0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brownstone_Facade_Flr_5.001
+    second: {fileID: 2100000, guid: 7ad6edad7130c394c9b428e257a98e7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brownstone_Facade_Flr_6.001
+    second: {fileID: 2100000, guid: 30bb6ecde66e67549be41d0c114b3c98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brownstone_Firstfloor_1.001
+    second: {fileID: 2100000, guid: 3f57434a10b1d7a4692fe769b5eea42d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brownstone_Maskedstuff_1.002
+    second: {fileID: 2100000, guid: c6a6071bdaaf3c54c96be0c1ea44245a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dumpster1
+    second: {fileID: 2100000, guid: 6e6073bf5ee93074a8e587b61a95f232, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hardware
+    second: {fileID: 2100000, guid: 150841169ac9d3d4e995adfd82d4a679, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lantern
+    second: {fileID: 2100000, guid: 2e742f588eea3e541b181c94b278d154, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: d32be24686278444daa7521683fac785, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 13808c5ea5dc21949b1bc9271f58c44a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: 0eff76326799d414ea8edb26df94ae37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: 429d1465524b06a409775d6d6f60a652, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: 5bbbdf29b9a150f468d6d98e6c5f505e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.006
+    second: {fileID: 2100000, guid: fec7212e06137ee4fa07092149c4fe40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.007
+    second: {fileID: 2100000, guid: 53afcd1c553feb442a370d23fe4db10e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.008
+    second: {fileID: 2100000, guid: cadf519bbbaa2894796a5d8454b35104, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.009
+    second: {fileID: 2100000, guid: 0f3bcbcb1a24aeb4282b985ca99dafb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.010
+    second: {fileID: 2100000, guid: 6094fc15ffe93064aabae0e2ed5d071e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.011
+    second: {fileID: 2100000, guid: 3cd8a27558c8fce48b938dabfe3e7bf1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.012
+    second: {fileID: 2100000, guid: eb6c89a84f9d0724ca20f5d189b5e24c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.013
+    second: {fileID: 2100000, guid: 60f64843a7fb4b44c8f5b9b4e854ab04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.014
+    second: {fileID: 2100000, guid: 789318a761f3f2c40b0c0b6de303f1a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.015
+    second: {fileID: 2100000, guid: 17261f7c68dc1d143b793ef464811e9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Signs
+    second: {fileID: 2100000, guid: 4b4ce34ece740c74fb237770af0452f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TopLid
+    second: {fileID: 2100000, guid: 412a9d2fbc61bb5468f679ec67c6d55c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WheelBracket1
+    second: {fileID: 2100000, guid: b3101e0ac4086e949af70c9d962f9ab4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wheels
+    second: {fileID: 2100000, guid: cc8ca11c9f7c4404b87839c3ff540229, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bin_Green2_T
+    second: {fileID: 2800000, guid: 3b32bad226153154388fd87907ace668, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brownstone_Facade_FLR_7_Dif
+    second: {fileID: 2800000, guid: 51a7cdae0a70a0048a3342df8dbb0d91, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brownstone_Facade_Flr_1_Dif
+    second: {fileID: 2800000, guid: f08ee8f262eb5ad48908b66a8574bbc9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brownstone_Facade_Flr_2_Dif
+    second: {fileID: 2800000, guid: d3c5eef86dce67a44bc82b4bc63760ef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brownstone_Facade_Flr_3_Dif
+    second: {fileID: 2800000, guid: 35fe59be5a5a1c44bbf16d988f345026, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brownstone_Facade_Flr_4_dif
+    second: {fileID: 2800000, guid: cb4658999b685984fafd4cbdde0b7c4d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brownstone_Facade_Flr_5_dif
+    second: {fileID: 2800000, guid: b1d331d0073f0834a804bf669ff156eb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brownstone_Facade_Flr_6_dif
+    second: {fileID: 2800000, guid: 5ef90547c6d4c7249b74ac9e6431ede5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brownstone_Firstfloor_1_dif
+    second: {fileID: 2800000, guid: 6dd06724477aa8343a4882e8d91060ba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brownstone_Maskedstuff_1_dif
+    second: {fileID: 2800000, guid: 34e9645ca0a66fd49a369cba1935cd83, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Hardware_Dark
+    second: {fileID: 2800000, guid: 617f13abd3bfb7a4e949a2d2eee010ef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LanternBaseColor
+    second: {fileID: 2800000, guid: daf79b69a95e298469bc64afd785d493, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LanternEmissive
+    second: {fileID: 2800000, guid: fb9508fab11ac664297685bb901fafaf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LanternMetallic
+    second: {fileID: 2800000, guid: 72cc8b0427d3aa34396261a3ba2f0d1d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LanternNormal
+    second: {fileID: 2800000, guid: 07785322bda65154da19156f39da93f9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LanternRoughness
+    second: {fileID: 2800000, guid: 37244882a8e886c47a59dc7e9161dd00, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LeftBracket_Green2_T
+    second: {fileID: 2800000, guid: efb962abe1cd3594782be609c854ee84, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Lid_T
+    second: {fileID: 2800000, guid: abf56d68ec09248428adbffa7a99f42f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_Material.001_BaseColor
+    second: {fileID: 2800000, guid: 5153fd09108c0b24fb1f36785fcba55c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_Material.001_Metallic
+    second: {fileID: 2800000, guid: 5d9eea90b48c55e4aabc156d9b29679b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_Material.001_Normal
+    second: {fileID: 2800000, guid: 8c8c108db4dae5c499d3a26a7ea93cf1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_Material.001_Roughness
+    second: {fileID: 2800000, guid: abc250209ebed4144911fbb38e9d651f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_Material.002_BaseColor
+    second: {fileID: 2800000, guid: f99a27e8f47698f4686493d8a7d01b80, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_Material.002_Metallic
+    second: {fileID: 2800000, guid: ca37127d5555982448de39bc3beefa12, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_Material.002_Normal
+    second: {fileID: 2800000, guid: 713fe623a44165341bfa1d9d8e070e25, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_Material.002_Roughness
+    second: {fileID: 2800000, guid: d7804765098a7e34fb7bd63361ef9e94, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_Material.003_BaseColor
+    second: {fileID: 2800000, guid: 9476eee3c0bd9df419df5e09190062b8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_Material.003_Metallic
+    second: {fileID: 2800000, guid: f7897e87c1ae2cb4ba1c29a8d10c7e99, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_Material.003_Normal
+    second: {fileID: 2800000, guid: 2e719cfcebfd8564f95b91f6aebafe62, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_Material.003_Roughness
+    second: {fileID: 2800000, guid: 45caf0d5f11951b42a7bfa037a49103d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_Material.004_BaseColor
+    second: {fileID: 2800000, guid: 95522b5c90078ec4a949bbbc0b06a5ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_Material.004_Metallic
+    second: {fileID: 2800000, guid: f06e3022188661446aea4ee02d00fd90, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_Material.004_Normal
+    second: {fileID: 2800000, guid: 6da22615aff1d46459ee48c75b4a134e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_Material.004_Roughness
+    second: {fileID: 2800000, guid: 29d6a8c1f18577b48a2b68c12fb3042a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_Material.005_BaseColor
+    second: {fileID: 2800000, guid: 9951cc630072f404bbba6bfa8a9505a3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_Material.005_Metallic
+    second: {fileID: 2800000, guid: 2e4a77f62b4f68d40b835ad63d6bdcc1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_Material.005_Normal
+    second: {fileID: 2800000, guid: 88719e6c5c66a9347a6086c387e8a982, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_Material.005_Roughness
+    second: {fileID: 2800000, guid: 6f54942e2e26a61448e3cc9e702be8da, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_Material.006_BaseColor
+    second: {fileID: 2800000, guid: 69725c8abe8ae664c908263a3569a3d4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_Material.006_Metallic
+    second: {fileID: 2800000, guid: 09b0e01d14de3c24e8693daf163ca9d4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_Material.006_Normal
+    second: {fileID: 2800000, guid: c2def1f5f71283646ba76b5eb361a333, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_Material.006_Roughness
+    second: {fileID: 2800000, guid: e85ba1ab73c22b54a87f4fea7170e7b3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_Material.007_BaseColor
+    second: {fileID: 2800000, guid: d0dc3bb911b4cec45bf587139aa25559, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_Material.007_Metallic
+    second: {fileID: 2800000, guid: a5ec2f5a4d1f2b84d92b6a4e11cc7f10, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_Material.007_Normal
+    second: {fileID: 2800000, guid: b7c9357b9d131324caf57548c0279283, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_Material.007_Roughness
+    second: {fileID: 2800000, guid: 90f5e2a5091c45748a9f789a60fb29eb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_Material.008_BaseColor
+    second: {fileID: 2800000, guid: 5aa7e119c3193064baefb329535e068e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_Material.008_Metallic
+    second: {fileID: 2800000, guid: 8f3ae67965be325468da780eb8f1141a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_Material.008_Normal
+    second: {fileID: 2800000, guid: b2c25c6dd4e4cac43bf33587b4618639, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_Material.008_Roughness
+    second: {fileID: 2800000, guid: bb77ce3915dfd074581d0a2ddcaff58f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_Material.009_BaseColor
+    second: {fileID: 2800000, guid: 931e8ee1b553b5346b6bced88cb7a042, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_Material.009_Metallic
+    second: {fileID: 2800000, guid: dd6661618fb45314cb25776490c5c02b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_Material.009_Normal
+    second: {fileID: 2800000, guid: 1a4fdfc440b491348b9565112a5d32df, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_Material.009_Roughness
+    second: {fileID: 2800000, guid: be941c19c11b91e43aa95ec51a37894a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_sidewalk_Material.010_BaseColor
+    second: {fileID: 2800000, guid: 638afaed928b4db4eb7465858b83e688, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_sidewalk_Material.010_Metallic
+    second: {fileID: 2800000, guid: fc58c08f39de27d4fb10ea0a8a0f89a2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_sidewalk_Material.010_Normal
+    second: {fileID: 2800000, guid: 7615e50ee9a7dc142a362880de9e3b1c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_sidewalk_Material.010_Roughness
+    second: {fileID: 2800000, guid: d32444b7127c3554e90769d17916bf10, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_sidewalk_Material.011_BaseColor
+    second: {fileID: 2800000, guid: 7b40413cad5a25049b0e42ea84a4e524, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_sidewalk_Material.011_Metallic
+    second: {fileID: 2800000, guid: 95cada28552e952458a4d0ef3f64474e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_sidewalk_Material.011_Normal
+    second: {fileID: 2800000, guid: d5f2ceea786d45c428ac06f36076dd82, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_sidewalk_Material.011_Roughness
+    second: {fileID: 2800000, guid: cbfd206a9011630429832c0d9801eb02, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_sidewalk_Material.012_BaseColor
+    second: {fileID: 2800000, guid: 8d28e8509ae430f47b20ad9ecdbb729d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_sidewalk_Material.012_Metallic
+    second: {fileID: 2800000, guid: 934414c3e5735684694e9038cc95fe36, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_sidewalk_Material.012_Normal
+    second: {fileID: 2800000, guid: f1326b42fd7115447b51c3b236be82cb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_sidewalk_Material.012_Roughness
+    second: {fileID: 2800000, guid: 3ee575d299f152449a45d5a5106fce2e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_sidewalk_Material.013_BaseColor
+    second: {fileID: 2800000, guid: b98993e1d74bc284891dc1763afabe87, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_sidewalk_Material.013_Metallic
+    second: {fileID: 2800000, guid: e7b63f49e1679c046b45a600e10f5367, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_sidewalk_Material.013_Normal
+    second: {fileID: 2800000, guid: 2e1fad93484971b439f6b1b2c5186417, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_sidewalk_Material.013_Roughness
+    second: {fileID: 2800000, guid: d70ac427aa782674e9e169302076e14a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_sidewalk_Material.014_BaseColor
+    second: {fileID: 2800000, guid: da0ac277091ce2c4497b0c6925f0dc8e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_sidewalk_Material.014_Metallic
+    second: {fileID: 2800000, guid: 45822cb7262455742b30a7ae5857b4e0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_sidewalk_Material.014_Normal
+    second: {fileID: 2800000, guid: 2c79c19950eaa134aaeae43992d965ac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_sidewalk_Material.014_Roughness
+    second: {fileID: 2800000, guid: 6c68f5e47804df448bbbbee0d28e551c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_sidewalk_Material.015_BaseColor
+    second: {fileID: 2800000, guid: 055b8f56f0c4db740a18f6ffbe632225, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_sidewalk_Material.015_Metallic
+    second: {fileID: 2800000, guid: 147ea1b7818b3564aaf84645d054a665, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_sidewalk_Material.015_Normal
+    second: {fileID: 2800000, guid: 18d9ec0dd59ea084eb55f0105de51f00, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plane_wt_sidewalk_Material.015_Roughness
+    second: {fileID: 2800000, guid: 5c691f4e506c2cf49b01e4049a556429, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: RightBracket_Green_T
+    second: {fileID: 2800000, guid: 6900fb6b2f25a5647bbccaf7f32f6cab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wheels_T
+    second: {fileID: 2800000, guid: ed7b9593f28fa1a4aa84c28a70311324, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: signs_T
+    second: {fileID: 2800000, guid: 2348eacd9503c0a4a8926293fe128604, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 11
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.11
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

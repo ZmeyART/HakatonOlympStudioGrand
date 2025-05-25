@@ -1,0 +1,3 @@
+repository "GrandMobileHakathon/GrandMobileHakathon@18967759280258@cloud"
+  path "/"
+    smartbranch "/main/dev/UI"
